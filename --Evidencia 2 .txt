@@ -1,0 +1,7 @@
+--Evidencia 2 
+Realizar una clase en Jupyter Notebook
+
+Se realizo una clase llamada circulo donde se define como atributo el radio el cual esta en @property
+junto con la funcion del area, la cual se llama de una libreria math para hacer la operacion ya con el 
+metodo constructor __init__ se pone lo que es el radio. Finalmente se manda llamar la clase dandole un
+valor para el radio y se manda a imprimir los datos de radio y su area. 
